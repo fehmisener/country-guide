@@ -17,12 +17,12 @@ In the first stage we will focus on the socio-economic, education, job opportuni
 Although it is desired to include all the countries of the world in the following stages, only the following countries are currently available.
 
 ## North America 
-- [Canada](NorthAmerica\canada.md)
+- [Canada](NorthAmerica/canada.md)
 - [United States]()
 
 ## Europe
 - [United Kingdom]()
-- [Germany]()
+- [Germany](Europe/germany.md)
 - [Switzerland](Europe/switzerland.md)
 
 
