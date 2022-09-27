@@ -22,7 +22,7 @@ Although it is desired to include all the countries of the world in the followin
 
 ## Europe
 - [United Kingdom]()
-- [Germany](Europe\germany.md)
-- [Switzerland](Europe\switzerland.md)
+- [Germany]()
+- [Switzerland](Europe/switzerland.md)
 
 
