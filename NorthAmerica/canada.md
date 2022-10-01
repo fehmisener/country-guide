@@ -18,7 +18,7 @@
 
 | **Department**   | **Location** | **Rank** | **Fee**   | **Application Deadline** | **Start Date** |
 |------------------|--------------|----------|-----------|--------------------------|----------------|
-| [Computer Science](https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-science-computer-science) | [Vancouver](https://www.cs.ubc.ca/students/grad/admissions)    | 37th     | $9,313.92 |                          |                |
+| [Computer Science](https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-science-computer-science) | [Vancouver](https://www.cs.ubc.ca/students/grad/admissions)    | 37th     | $9,313.92 | 15 December 2022 |                |
 
 
 ### University of Alberta
