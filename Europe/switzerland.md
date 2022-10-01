@@ -52,10 +52,10 @@
 
 | **Department**   | **Location** | **Rank** | **Fee**   | **Application Deadline** | **Start Date** |
 |------------------|--------------|----------|-----------|--------------------------|----------------|
-|[Artificial Intelligence](https://www.oec.uzh.ch/en/studies/master/it/ai.html) | Zurich | 54th | 1.472$  | 1 July - 30 November |                |
-|[Data Science](https://www.oec.uzh.ch/en/studies/master/it/ds.html) | Zurich | 54th | 1.472$  | 1 July - 30 November |                |
-|[Information Systems](https://www.oec.uzh.ch/en/studies/master/it/is.html) | Zurich | 54th | 1.472$ |1 July - 30 November |                |
-|[Software Systems](https://www.oec.uzh.ch/en/studies/master/it/sosy.html) | Lausanne | 54th | 1.472$ |1 July - 30 November |                |
+|[Artificial Intelligence](https://www.oec.uzh.ch/en/studies/master/it/ai.html) | Zurich | 54th | 1.472$  | 1 January until 28 February |                |
+|[Data Science](https://www.oec.uzh.ch/en/studies/master/it/ds.html) | Zurich | 54th | 1.472$  | 1 January until 28 February |                |
+|[Information Systems](https://www.oec.uzh.ch/en/studies/master/it/is.html) | Zurich | 54th | 1.472$ | 1 January until 28 February |                |
+|[Software Systems](https://www.oec.uzh.ch/en/studies/master/it/sosy.html) | Lausanne | 54th | 1.472$ | 1 January until 28 February |                |
 
 ### University of Geneva
 
